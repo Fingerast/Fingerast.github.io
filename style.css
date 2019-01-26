@@ -1,0 +1,18 @@
+
+.jstree-default .jstree-anchor > i.jstree-icon{
+    background-image: url('https://circle-people.com/wp-content/plugins/m1downloadlist-omk-edit-1/icons/folder.gif');
+    background-repeat: no-repeat;
+    background-position: 0 center;
+}
+
+#catalog-menu{
+    background:#000000;
+}
+
+.site-content{
+    background:darkblue;
+}
+
+.darova{
+background: url("/assets/Без\ названия.jpeg") bottom center no-repeat;
+}
